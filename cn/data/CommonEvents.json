@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":223,"indent":0,"parameters":[[-255,-255,-255,0],80,true]},{"code":0,"indent":0,"parameters":[]}],"name":"darken","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":223,"indent":0,"parameters":[[0,0,0,0],60,false]},{"code":0,"indent":0,"parameters":[]}],"name":"brighten","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":231,"indent":0,"parameters":[1,"blur",0,0,0,0,100,100,0,0]},{"code":232,"indent":0,"parameters":[1,0,0,0,0,0,100,100,255,0,80,true]},{"code":0,"indent":0,"parameters":[]}],"name":"blur","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":223,"indent":0,"parameters":[[0,0,0,0],60,true]},{"code":0,"indent":0,"parameters":[]}],"name":"brighten_wait","switchId":1,"trigger":0}
+]
