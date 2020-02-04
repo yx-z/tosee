@@ -6,7 +6,7 @@ var $plugins =
 {"name":"ChangeChoiceY","status":true,"description":"change the y axis of choiceBox","parameters":{"y":"Graphics.boxHeight / 2"}},
 {"name":"FluidTimestep","status":true,"description":"1.0.2 Fixes MV's framerate dependent timestepping. Makes the gamespeed the same regardless of framerate.","parameters":{}},
 {"name":"PreloadManager","status":true,"description":"1.1.1 Preload resources on scene/map load as well as game startup for a smoother gameplay experience.          id:TDDP_PreloadManager","parameters":{"Preload On Map Load":"true","Preload System Music":"false","Preload System SFX":"false","Print Debug to Console":"false"}},
-{"name":"SkipTitle","status":true,"description":"Skip Title.","parameters":{"Test Only":"true"}},
+{"name":"SkipTitle","status":true,"description":"Skip Title.","parameters":{"Test Only":"false"}},
 {"name":"SnapBlur","status":true,"description":"屏幕模糊","parameters":{"blurLevel":"2"}},
 {"name":"TWDP_TouchEventEx","status":true,"description":"v1.00 Extend the Touch Event","parameters":{}},
 {"name":"VIPArcher_Bubble_Message","status":false,"description":"VIPArcher_气泡对话框","parameters":{"TopMessageReviseY":"0","TopTagReviseY":"0","BottomMessageReviseY":"0","BottomTagReviseY":"0"}},
